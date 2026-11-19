@@ -10,7 +10,7 @@ Silk Remington Typewriter ATR
    Type Founders, expanded to include italics. **It is made for
    the exclusive use of American Type Revival and should not be
    used for other purposes.**
-   -------------------------------------------------------------
+
 
 
    ![Silk Remington Typewriter ATR in uppercase, lowercase, numbers, and punctuation][upright]
@@ -79,6 +79,6 @@ Silk Remington Typewriter ATR
 [atr]: https://ewonrael.github.io/atr/logo-hover.svg
 [upright]: documentation/silk-remington-upright.png
 [linotype]: documentation/linotype-remington.png
-[ibm-plex]: https://www.ibm.com/plex/plexness/
+[ibm-plex]: https://www.ibm.com/history/selectric/
 [selectric]: documentation/ibm-selectric-italic.png
 [italic]: documentation/silk-remington-italic.png
