@@ -1,0 +1,16 @@
+# Build-tool dependencies for Silk Remington Typewriter ATR.
+#
+# These are expected to be installed globally (e.g. via apt) rather than in a
+# local Python virtual environment:
+#
+#     sudo apt install fontmake gftools python3-fonttools python3-brotli \
+#                      python3-ttfautohint-py ttfautohint woff2
+#
+# Tooling used:
+#   fontmake        - compile UFO sources to OTF/TTF
+#   gftools         - post-processing (fix-hinting, etc.)
+#   fonttools       - font manipulation library
+#   brotli          - WOFF2 compression dependency
+#   ttfautohint     - TTF autohinting
+#   ttfautohint-py  - Python wrapper for ttfautohint
+#   woff2           - woff2_compress utility for webfont generation

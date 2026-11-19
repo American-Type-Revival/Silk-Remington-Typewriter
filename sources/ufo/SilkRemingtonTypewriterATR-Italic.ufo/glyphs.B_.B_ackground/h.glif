@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <image fileName="h.png" xScale="11.901320660916625" yScale="11.901320660916625" xOffset="-83.5805351823555" yOffset="-361.7234775198327" color="1,1,1,0.5"/>
+  <outline>
+    <contour>
+      <point x="324" y="743" type="move"/>
+    </contour>
+  </outline>
+</glyph>

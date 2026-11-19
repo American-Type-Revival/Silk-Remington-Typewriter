@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus" format="2">
+  <advance width="650"/>
+  <image fileName="plus.png" xScale="11.901320660916625" yScale="11.901320660916625" xOffset="-83.76526443204347" yOffset="-325.72949039032886" color="1,1,1,0.5"/>
+  <outline>
+  </outline>
+</glyph>

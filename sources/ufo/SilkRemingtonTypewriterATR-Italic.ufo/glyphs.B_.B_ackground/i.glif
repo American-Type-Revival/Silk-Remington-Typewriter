@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <image fileName="i.png" xScale="11.901320660916625" yScale="11.901320660916625" xOffset="-56.508515840963355" yOffset="-371.93883734390397" color="1,1,1,0.5"/>
+  <outline>
+    <contour>
+      <point x="356.1552843098394" y="574" type="qcurve"/>
+      <point x="351.7629794644261" y="580"/>
+      <point x="363.55274393139547" y="624" type="qcurve"/>
+      <point x="373.73481324377815" y="662"/>
+      <point x="397.28994951510725" y="679"/>
+      <point x="437.28994951510725" y="679" type="qcurve"/>
+      <point x="465.28994951510725" y="679"/>
+      <point x="481.3950672816225" y="657"/>
+      <point x="473.62454070112" y="628" type="qcurve"/>
+      <point x="469.8732520070843" y="614" type="line"/>
+      <point x="455.8873351174082" y="573" type="line"/>
+      <point x="408.08348754011485" y="570" type="line"/>
+      <point x="390.08348754011485" y="570" type="line"/>
+      <point x="359.08348754011485" y="570"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <image fileName="period.png" xScale="11.901320660916625" yScale="11.901320660916625" xOffset="44.33319649837392" yOffset="-324.73166579344155" color="1,1,1,0.5"/>
+  <outline>
+    <contour>
+      <point x="230.94090512249483" y="-9" type="qcurve"/>
+      <point x="217.54860027708156" y="-3"/>
+      <point x="207.92682201217087" y="32"/>
+      <point x="213.01785666836219" y="51" type="qcurve"/>
+      <point x="219.71658647914023" y="76"/>
+      <point x="238.46787517317597" y="90" type="qcurve"/>
+      <point x="265.82685902179844" y="110"/>
+      <point x="304.82685902179844" y="110" type="qcurve"/>
+      <point x="317.82685902179844" y="110"/>
+      <point x="328.4871130596428" y="105" type="qcurve"/>
+      <point x="344.8076211353316" y="95"/>
+      <point x="334.08965343808666" y="55" type="qcurve"/>
+      <point x="322.8357873559795" y="13"/>
+      <point x="299.0844986619438" y="-1" type="qcurve"/>
+      <point x="277.86910835277035" y="-13"/>
+      <point x="256.86910835277035" y="-13" type="qcurve"/>
+      <point x="241.86910835277035" y="-13"/>
+    </contour>
+  </outline>
+</glyph>

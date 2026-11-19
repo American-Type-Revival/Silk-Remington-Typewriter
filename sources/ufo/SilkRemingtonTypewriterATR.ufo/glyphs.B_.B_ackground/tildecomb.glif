@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <outline>
+    <contour>
+      <point x="-58.571362669803364" y="602.0" type="line" smooth="yes"/>
+      <point x="-72.17702419259659" y="588.1477086903582"/>
+      <point x="-89.57136266980336" y="572.0"/>
+      <point x="-101.57136266980336" y="572.0" type="curve" smooth="yes"/>
+      <point x="-113.57136266980336" y="572.0"/>
+      <point x="-127.19436683752136" y="586.1677615751852"/>
+      <point x="-114.57136535644531" y="602" type="curve" smooth="yes"/>
+      <point x="-55.57136266980336" y="676.0" type="line" smooth="yes"/>
+      <point x="-34.4428777365339" y="702.5001324383995"/>
+      <point x="-24" y="716.0"/>
+      <point x="-0.036938745478265034" y="716.0" type="curve" smooth="yes"/>
+      <point x="25" y="716.0"/>
+      <point x="35.44775751772774" y="701.7773888760703"/>
+      <point x="56" y="676" type="curve" smooth="yes"/>
+      <point x="115.0" y="602.0" type="line" smooth="yes"/>
+      <point x="127.62300205435027" y="586.1677601352217"/>
+      <point x="114.0" y="572.0"/>
+      <point x="102.0" y="572.0" type="curve" smooth="yes"/>
+      <point x="90.0" y="572.0"/>
+      <point x="72.60566183928313" y="588.1477090012131"/>
+      <point x="59" y="602" type="curve" smooth="yes"/>
+      <point x="0.21431732177734375" y="661.8512878417969" type="line"/>
+    </contour>
+  </outline>
+</glyph>

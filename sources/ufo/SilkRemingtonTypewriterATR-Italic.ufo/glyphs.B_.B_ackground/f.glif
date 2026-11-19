@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <image fileName="f.png" xScale="11.901320660916625" yScale="11.901320660916625" xOffset="-73.90871009849752" yOffset="-351.3099866576162" color="1,1,1,0.5"/>
+  <outline>
+    <contour>
+      <point x="-103" y="-212" type="line"/>
+      <point x="842" y="-212" type="line"/>
+      <point x="842" y="-29" type="line"/>
+      <point x="-103" y="-29" type="line"/>
+    </contour>
+  </outline>
+</glyph>

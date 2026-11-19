@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="650"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="636.9512659009149" y="451.09806460162736" type="line" smooth="yes"/>
+      <point x="621.2507334381521" y="419.1066128980548"/>
+      <point x="610.652607519799" y="401.43569060403036"/>
+      <point x="597.9934144506442" y="401.43569060403036" type="curve" smooth="yes"/>
+      <point x="590.916816964755" y="401.43569060403036"/>
+      <point x="582.3103347609098" y="407.4397127121914"/>
+      <point x="588.487164285777" y="425.09806460162747" type="curve" smooth="yes"/>
+      <point x="654.4538432889859" y="613.683944481676" type="line" smooth="yes"/>
+      <point x="666.7530298581067" y="648.8449220539092"/>
+      <point x="683.6265505051504" y="682.9957621585662"/>
+      <point x="716.4341330097218" y="682.9957621585662" type="curve" smooth="yes"/>
+      <point x="735.360610758642" y="682.9957621585662"/>
+      <point x="741.976225912912" y="668.3762986428916"/>
+      <point x="722.7584612857861" y="625.9390614585628" type="curve" smooth="yes"/>
+    </contour>
+    <component base="t" xOffset="-30.0"/>
+  </outline>
+</glyph>

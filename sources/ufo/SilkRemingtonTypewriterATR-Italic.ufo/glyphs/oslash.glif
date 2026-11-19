@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="650"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="568.3040326254313" y="638.0" type="line" smooth="yes"/>
+      <point x="594.9248051027294" y="676.7321640367982"/>
+      <point x="631.2453131784166" y="666.7321640367959"/>
+      <point x="604.62454070112" y="628.0" type="curve" smooth="yes"/>
+      <point x="50.6574916016351" y="-178.0" type="line" smooth="yes"/>
+      <point x="24.036719124336983" y="-216.73216403679817"/>
+      <point x="-7.943639125936535" y="-208.4081972368914"/>
+      <point x="14.336983525946337" y="-168.0" type="curve" smooth="yes"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+</glyph>

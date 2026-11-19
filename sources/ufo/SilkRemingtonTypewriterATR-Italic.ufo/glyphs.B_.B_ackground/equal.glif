@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="650"/>
+  <image fileName="equal.png" xScale="11.901320660916625" yScale="11.901320660916625" xOffset="-101.85989279997563" yOffset="-328.22953735794187" color="1,1,1,0.5"/>
+  <outline>
+  </outline>
+</glyph>

@@ -1,0 +1,3 @@
+# Exclude the complex logo glyph (PUA F8FF) from TrueType autohinting.
+# It has too many points for ttfautohint to handle reliably.
+logo n 0-

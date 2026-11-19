@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <image fileName="hyphen.png" xScale="11.901320660916625" yScale="11.901320660916625" xOffset="-38.63037095416752" yOffset="-321.4533129806317" color="1,1,1,0.5"/>
+  <outline>
+    <contour>
+      <point x="119.19615242270665" y="242" type="qcurve"/>
+      <point x="118.21539030917349" y="257"/>
+      <point x="133.03847577293368" y="275"/>
+      <point x="371.0384757729337" y="275" type="qcurve"/>
+      <point x="515.0384757729337" y="275"/>
+      <point x="525.6987298107781" y="270" type="qcurve"/>
+      <point x="537.0910346561914" y="264"/>
+      <point x="531.732050807569" y="244" type="qcurve"/>
+      <point x="526.1051177665154" y="223" type="line"/>
+      <point x="323.6410161513775" y="225" type="line"/>
+      <point x="180.9089653438087" y="226"/>
+      <point x="120.24871130596428" y="231"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent" format="2">
+  <advance width="650"/>
+  <unicode hex="0123"/>
+  <outline>
+    <contour>
+      <point x="436.95865341914606" y="649.4" type="curve" smooth="yes"/>
+      <point x="468.158653419146" y="649.4"/>
+      <point x="482.8991540929092" y="623.8"/>
+      <point x="476.25401412061746" y="599.0" type="curve" smooth="yes"/>
+      <point x="469.39451479438065" y="573.4"/>
+      <point x="443.1206561141991" y="547.0"/>
+      <point x="411.92065611419906" y="547.0" type="curve" smooth="yes"/>
+      <point x="380.720656114199" y="547.0"/>
+      <point x="361.2796399628215" y="567.0"/>
+      <point x="376.71351344685417" y="624.6" type="curve" smooth="yes"/>
+      <point x="392.3617462848317" y="683.0"/>
+      <point x="431.03710416130735" y="757.5187792654983"/>
+      <point x="489.2428216516134" y="787.8" type="curve" smooth="yes"/>
+      <point x="515.216357280269" y="801.3125963485933"/>
+      <point x="537.1493779468423" y="794.5610361741415"/>
+      <point x="513.6561500503298" y="777.4000000000001" type="curve" smooth="yes"/>
+      <point x="461.74705628938506" y="739.4821012879754"/>
+      <point x="434.8345740097848" y="698.2"/>
+      <point x="421.1155753573113" y="647.0" type="curve"/>
+      <point x="426.34429406520115" y="648.6"/>
+      <point x="431.35865341914604" y="649.4"/>
+    </contour>
+    <component base="g"/>
+  </outline>
+</glyph>
