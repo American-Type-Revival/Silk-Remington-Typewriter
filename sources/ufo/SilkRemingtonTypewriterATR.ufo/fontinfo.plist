@@ -59,101 +59,211 @@
     <key>openTypeNameDesignerURL</key>
     <string></string>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2026 American Type Revival. All rights reserved.
+    <string>   Copyright © 2026 American Type Revival. All rights reserved.
 
 
-          ☙ AMERICAN TYPE REVIVAL EXCLUSIVE FONT LICENSE ❧
+                     ☙ AMERICAN TYPE REVIVAL ❧
+               SILK REMINGTON TYPEWRITER FONT LICENSE
 
-                   · Version 1.0, November 2026 ·
-
-
-
-
-    This license covers Silk Remington Typewriter ATR, including its
-    Regular and Italic styles, its font files in any format and
-    the source files used to make them (together, “the Font”).
-    These terms also apply to any font you make using all or
-    part of the Font. American Type Revival (“ATR”) reserves
-    all rights in the Font except those expressly granted here.
+                          · Version 1.0 ·
 
 
 
-    IN SHORT
 
-    ·   You may download, install and change the Font, study its
-        source and try it out in designs you keep to yourself.
-
-    ·   You need ATR’s express written permission before you
-        share the Font, its source or any font made from it.
-
-    ·   You also need that permission to publish work made with
-        the Font in any format, even if you share only an image
-        and give away no font files.
-
-    This summary is only a guide. The terms below are what
-    apply.
+    This is the license for the Silk Remington Typewriter ATR
+    font, which covers both the compiled fonts (TTF, OTF, and
+    webfont files) and the source code used to generate those
+    fonts, specifically the UFO files. This font is available to
+    download from the official GitHub repo. This repository is
+    the only official source for the Font. If there's any
+    confusion about what font this license applies to, having the
+    download link in the Definitions section should make it
+    pretty clear.
 
 
 
-1.  PRIVATE USE
+    PREAMBLE / SUMMARY OF THE LICENSE
 
-    You may download the Font and its source files for your own
-    private study and experimentation. You may install the Font,
-    edit the source, build modified versions and use any of them
-    to make private designs or test prints. For example, you may
-    redraw a letter and print a specimen to see how it looks.
-
-
-
-2.  SHARING AND PUBLICATION
-
-    Unless you have ATR’s prior express written permission:
-
-    a.  Do not give, sell or otherwise distribute the Font, its
-        source files or any font made from them, either on their
-        own or as part of something else. This includes sending
-        a copy to one person, posting a public fork, serving a
-        webfont or embedding the Font in a file you share.
-
-    b.  Do not publish, display publicly or distribute any work
-        made with the Font or a modified version of it. This
-        applies to every medium, including print, websites,
-        images, video and physical products. It also applies
-        when the letters have been outlined or turned into an
-        image, and whether the work is sold or given away.
+    I am not proud of this font, and consequently I don't want it
+    to be used in public. I designed it to be used on the
+    American Type Revival website because I needed a monospaced
+    typeface that felt period appropriate, but in general I
+    dislike attempts to literally capture letters designed for
+    typewriters (which is what this font is) because I feel that
+    what looks good on a typewriter tends to translate pretty
+    poorly to other mediums. I am releasing both this font and
+    its source code publicly (perhaps against my better judgment)
+    because I think there is a certain utility or public interest
+    in being able to pick apart and understand how fonts are
+    made. Therefore, you are permitted to download and tinker
+    with or use this font as much as you like privately, but you
+    are very much forbidden from using or distributing the font
+    in any public capacity (outside of a couple of exceptions
+    which I spell out below).
 
 
 
-3.  WRITTEN PERMISSION
+1.  DEFINITIONS
 
-    ATR reserves use beyond private study and experimentation
-    for projects it approves. You must obtain ATR’s express
-    written permission before making any such use. Permission
-    covers only the uses described in writing.
+    When I say "I" or "me" I mean Owen Earl, writing on behalf of
+    American Type Revival.
 
+    When I say "the Font," I am referring to everything that I
+    designed that is unique to this font project. These are the
+    upright and italic files for both the finished exported font
+    files, like the TTFs, the OTFs, and WOFF2 files, and the
+    source files used to generate those, like the UFOs. If the
+    license only protected the finished fonts and not the source
+    code, then it would be trivial to use the source code to
+    generate new font files and circumvent the license.
+    Therefore, I want to be clear about "the Font" meaning both
+    the source code and the finished font files.
 
-
-4.  TERMINATION
-
-    Your permission under this license ends if you break its
-    terms. If it ends, stop using the Font and delete your copies,
-    including the source and any fonts you made from it.
-
-
-
-5.  NO WARRANTY
-
-    The Font is provided “as is”, without warranty of any kind,
-    express or implied, including warranties of merchantability,
-    fitness for a particular purpose and non-infringement.
+    When I say "the official GitHub repo," I am referring to the
+    repository hosted at the link:
+    https://github.com/American-Type-Revival/Silk-Remington-Typewriter
 
 
 
-6.  QUESTIONS
+2.  EXCLUSIVE NAMING RIGHTS
 
-    If you are unsure whether a use is covered, or need written
-    permission for a project, contact American Type Revival
-    before continuing.
+    ATR reserves the exclusive right to use the font name "Silk
+    Remington Typewriter ATR."
+
+
+
+3.  WHAT YOU ARE ALLOWED TO DO
+
+    You can download the Font on as many computers as you want.
+    You can use the Font in any private personal projects you
+    like. You can modify the Font and make derivative work, as
+    long as that stays private.
+
+
+
+4.  WHAT YOU ARE FORBIDDEN FROM DOING
+
+    You may not distribute the Font or any modified versions of
+    the Font. You may not distribute another font made using any
+    part of the Font. This includes emailing it privately to a
+    friend, hosting a copy of the official GitHub repo, sharing a
+    PDF or ebook with the Font embedded in it, or serving the
+    Font on a public website. If you are following this license,
+    it would be impossible for anyone to get a copy of the Font
+    through you or your actions (unless that action is you
+    linking to the official GitHub repo).
+
+    You are also forbidden from publishing anything that uses
+    this font. You may not use it for a logo you use publicly.
+    You may not use it on your website, or zine, or anything else
+    that has a public audience. This is true for both physical
+    and digital media. It is true even for modified versions of
+    the font. It doesn't matter if you modified the font so much
+    that it's unrecognizable. You cannot use this font or its
+    derivatives in any public-facing capacity. It is also
+    forbidden for you to use this font on a website even if you
+    don't host the font yourself and just link to a webfont
+    version of it. If anyone can ever see this font being used
+    outside of the American Type Revival website or the official
+    GitHub repo and prior written permission hasn't been granted
+    for that specific use case, then the terms of this license
+    have been violated.
+
+
+
+5.  EXCEPTIONS TO THE RULES OUTLINED ABOVE
+
+    There are two circumstances where you may use this font in
+    ways other than those outlined above, and they are both
+    fairly narrow and specific.
+
+    a.  The official GitHub repo has been unavailable for seven
+        consecutive days.
+
+        If the official GitHub repo has been unavailable to the
+        public for at least seven consecutive days, you may host
+        a clone of it. Immediately before you start hosting, you
+        must check that the official GitHub repo is still
+        unavailable to the public.
+
+        The clone must include every file that was in the
+        official GitHub repo when you downloaded it. The clone
+        must be available to everyone free of charge. You must
+        make it clear that you are hosting a clone and that you
+        do not represent American Type Revival and are not
+        affiliated with American Type Revival.
+
+        Any modification you make to the repository clone must be
+        exclusively in service of making the disclaimer that it
+        is not the official GitHub repo. It must be possible for
+        people to easily remove any and all modifications to the
+        repository you make, which means changes should be
+        clearly delineated.
+
+        Once you start hosting a clone under these terms, you do
+        not need to continue checking that the official repo is
+        unavailable. If the official repo goes back online and
+        you were already hosting a clone, you may continue
+        hosting that clone.
+
+    b.  You got explicit written permission.
+
+        If you write to me and ask for permission to use the Font
+        for a specific project, and I grant that permission in
+        writing BEFORE you use it in that project publicly, you
+        are permitted to use the Font. This permission only
+        extends to what was outlined clearly in writing.
+
+
+
+6.  TERMINATION
+
+    If you violate any of the terms of this license, even if that
+    violation was accidental, this license is VOID and all
+    permission to use the Font is revoked. Upon termination of
+    this license, you must delete all copies of the Font, as well
+    as any and all derivative work made using the font.
+
+
+
+7.  NO WARRANTY
+
+    THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF
+    ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+    ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+    PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK,
+    OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+    LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+    ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+    DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT
+    SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+
+8.  ADVICE
+
+    If you are looking for a good free monospaced typeface with a
+    permissive license, there are good options available, such as
+    TT2020 by Fredrick Brennan, Drafting Mono by indestructible
+    type*, or IBM Plex Mono by Mike Abbink. Even though American
+    Type Revival maintains the exclusive right to the Silk
+    Remington Typewriter ATR fonts, the Silk Remington Typewriter
+    typeface released by American Type Founders is in the public
+    domain and other digital revivals exist. As far as American
+    Type Revival is concerned, you’re welcome to draw your own
+    typeface from the same reference images I used. The source
+    files can be found in /sources/reference, and American Type
+    Revival holds no exclusive license over that material.
+
+
+
+9.  CONTACT
+
+    If you have any questions about this license or would like to
+    request permission to use the Font for a specific project,
+    reach out to me on behalf of American Type Revival. My
+    email is indestructibletype@gmail.com
 
 
 

@@ -9,7 +9,7 @@ Silk Remington Typewriter ATR
    Remington Typewriter typeface first distributed by American
    Type Founders, expanded to include italics. **It is made for
    the exclusive use of American Type Revival and should not be
-   used for other purposes.**
+   used for other purposes.** See [license.txt][license] for more info.
 
 
 
@@ -82,3 +82,5 @@ Silk Remington Typewriter ATR
 [ibm-plex]: https://www.ibm.com/history/selectric/
 [selectric]: documentation/ibm-selectric-italic.png
 [italic]: documentation/silk-remington-italic.png
+
+[license]: license.txt
